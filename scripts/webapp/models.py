@@ -14,7 +14,7 @@ class Participant:
         except Exception as e:
             print('Table creation error')
 
-    def creat_participant(self, name, age, city):
+    def create_participant(self, name, age, city):
         last_id = conn.execute("SELECT MAX(id) from WORKSHOP").fetchone()[0]
         last_id = 0 if last_id is None else last_id
         conn.execute("INSERT INTO WORKSHOP (ID,NAME,AGE,CITY)"
