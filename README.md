@@ -22,6 +22,11 @@ This course is broken up into a number of notebooks (chapters).
 * [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
 * [06](Intro-to-Python/06.ipynb) Functions
 * [07](Intro-to-Python/07.ipynb) Classes and basic object oriented programming
+* [07](Intro-to-Python/08.ipynb) Files I/O and Databases
+* [07](Intro-to-Python/09.ipynb) Testing
+* [07](Intro-to-Python/10.ipynb) Network Programming
+* [07](Intro-to-Python/11.ipynb) Building a simple web application
+
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
 
